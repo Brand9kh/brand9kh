@@ -1,5 +1,5 @@
   body {
-    background-color: #0040ff;
+    background-color: #3f4453;
 
 
     
@@ -9,11 +9,19 @@
 .navBar {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 20;
   background-color: darkblue;
 }
 
-
-.navLi {
+.aLiNav:hover {
+  border-color: white;
+}
+.aLiNav {
   display:inline;
+  padding: 20;
+  color: white;
+}
+
+.aLiNav:visited{
+  color: white;
 }
