@@ -13,15 +13,15 @@
   background-color: darkblue;
 }
 
-li:hover {
+.list:hover {
   border-color: green;
 }
-li {
+.list {
   display:inline;
   padding: 20;
   color: white;
 }
 
-li:visited{
+.list:visited{
   color: white;
 }
