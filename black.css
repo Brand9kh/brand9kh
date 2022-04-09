@@ -13,15 +13,15 @@
   background-color: darkblue;
 }
 
-.aLiNav:hover {
+li:hover {
   border-color: green;
 }
-.aLiNav {
+li {
   display:inline;
   padding: 20;
   color: white;
 }
 
-.aLiNav:visited{
+li:visited{
   color: white;
 }
