@@ -25,3 +25,6 @@
 .list:visited{
   color: white;
 }
+a {
+  font-weight: bold;
+}
