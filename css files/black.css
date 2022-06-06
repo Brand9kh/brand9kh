@@ -1,0 +1,45 @@
+  body {
+    background-color: #3f4453;
+
+
+    
+  }
+
+
+.navBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 20;
+  background-color: darkblue;
+}
+
+.list:hover {
+  border-color: green;
+}
+.list {
+  display:inline;
+  padding: 20;
+  color: white;
+}
+
+.list:visited{
+  color: white;
+}
+a {
+  font-weight: bold;
+}
+
+
+
+button {
+  background-color: #1d2230; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
